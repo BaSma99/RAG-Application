@@ -1,0 +1,9 @@
+streamlit
+faiss-cpu
+python-dotenv
+sentence-transformers
+langchain
+langchain_community
+pypdf
+google-generativeai
+numpy
